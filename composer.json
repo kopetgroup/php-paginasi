@@ -1,0 +1,14 @@
+{
+    "name": "rizoa/kopet-paginasi",
+    "description": "Paginasi  PHP",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "system",
+            "email": "riza@ikamai.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
